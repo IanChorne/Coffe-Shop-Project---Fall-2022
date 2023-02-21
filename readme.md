@@ -1,6 +1,5 @@
 # Coffee Project
+This is a copy of the code and documentation my team wrote for our Coffee Shop project for SWE 3113-Intro to Software Engineering. 
 
-This project is the basic framework you will build on to complete your team project.
-
-To get started, read the [detailed notes](Documentation/0_GettingStarted/README.md) in Documentation/0_GettingStarted.
+My contributions lie primarily within the project's scope, Use Case, Entity Relationship, and Class Design diagrams, as well as the Payment and Reciept forms. 
 
